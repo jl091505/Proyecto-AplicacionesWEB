@@ -1,0 +1,144 @@
+﻿$axure.loadCurrentPage({
+  "url":"alumno.html",
+  "generationDate":new Date(1397091242684.67),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"b9750f9bba8841ea8eb2fe7b3c4d543c",
+    "type":"Axure:Page",
+    "name":"Alumno",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"fd3a9bcd4f5e4e57b7e052ff68a232fe",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":155,
+              "y":88.5},
+            "size":{
+              "width":430,
+              "height":220}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8a6c8f54a82b4463ae42784282a4bc1c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":155,
+                  "y":88.5},
+                "size":{
+                  "width":430,
+                  "height":220}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/administrador/u0.png"}},
+{
+          "id":"3e76348e41be421f818bed8fe068a9c3",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":270,
+              "y":135},
+            "size":{
+              "width":200,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"c24a1cf86f314fad8ce167f90454f7d3",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":270,
+              "y":185.5},
+            "size":{
+              "width":200,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"95567f57e39b4e259e32d8b4eca25543",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":270,
+              "y":230},
+            "size":{
+              "width":200,
+              "height":30},
+            "cornerRadiusTopLeft":"5"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ec6c9c179728452d8d4df1c90c69b537",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":270,
+                  "y":230},
+                "size":{
+                  "width":200,
+                  "height":30},
+                "cornerRadiusTopLeft":"5"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/administrador/u4.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "fd3a9bcd4f5e4e57b7e052ff68a232fe":{
+      "scriptId":"u0"},
+    "8a6c8f54a82b4463ae42784282a4bc1c":{
+      "scriptId":"u1"},
+    "3e76348e41be421f818bed8fe068a9c3":{
+      "scriptId":"u2"},
+    "c24a1cf86f314fad8ce167f90454f7d3":{
+      "scriptId":"u3"},
+    "95567f57e39b4e259e32d8b4eca25543":{
+      "scriptId":"u4"},
+    "ec6c9c179728452d8d4df1c90c69b537":{
+      "scriptId":"u5"}}});

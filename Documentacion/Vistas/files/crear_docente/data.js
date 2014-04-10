@@ -1,0 +1,371 @@
+﻿$axure.loadCurrentPage({
+  "url":"crear_docente.html",
+  "generationDate":new Date(1397091242400.65),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"69c0f5462fd54dd2acecc0a6e4c1c44b",
+    "type":"Axure:Page",
+    "name":"Crear Docente",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"1587e721bd794b05a3535949f11f2dd8",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":240,
+              "y":50},
+            "size":{
+              "width":340,
+              "height":830}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f6d5bfbb3ad841a497d9c71a225b3f0f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":240,
+                  "y":50},
+                "size":{
+                  "width":340,
+                  "height":830}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/crear_docente/u0.png"}},
+{
+          "id":"63930b224d8e4ce79a92499e6b88453e",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":300,
+              "y":80},
+            "size":{
+              "width":200,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"880fd4ff06bc4528a9aff8a2e1eff8f3",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":300,
+              "y":145},
+            "size":{
+              "width":200,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"248698cdd39344619b5f8d111fa9a973",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":300,
+              "y":810},
+            "size":{
+              "width":200,
+              "height":30},
+            "cornerRadiusTopLeft":"5"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7fd3cfd63d7c46a3b144769b31ed590d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":300,
+                  "y":810},
+                "size":{
+                  "width":200,
+                  "height":30},
+                "cornerRadiusTopLeft":"5"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/administrador/u4.png"}},
+{
+          "id":"7d1903bcca0f479a8f214195835f58c7",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":300,
+              "y":200},
+            "size":{
+              "width":200,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"867ccbab32cb48fb98821e4a62ef4c95",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":300,
+              "y":260},
+            "size":{
+              "width":200,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"fbb2865ec87942ce84aa9ff1ad55586a",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":300,
+              "y":325},
+            "size":{
+              "width":200,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"f5cc1766a9284502ac2ce76a78652857",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":300,
+              "y":375},
+            "size":{
+              "width":200,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"6020c72ef6cb4a0288b31134f1bf51de",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":240,
+              "y":50},
+            "size":{
+              "width":84,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8a66b087e76b4adca8cdabf642103867",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":240,
+                  "y":50},
+                "size":{
+                  "width":84,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"ab6f150462074e24b0bad31f4d21ebbf",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":300,
+              "y":420},
+            "size":{
+              "width":200,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"caa47d6c63864b32acb483ff2e718c51",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":300,
+              "y":470},
+            "size":{
+              "width":200,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"ab455837e4394f3ebe6ea78bcd9a0109",
+          "label":"",
+          "type":"textArea",
+          "styleType":"textArea",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":300,
+              "y":510},
+            "size":{
+              "width":200,
+              "height":100}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"4b48b587d72c42b3a95fbe606a8a7298",
+          "label":"",
+          "type":"textArea",
+          "styleType":"textArea",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":300,
+              "y":630},
+            "size":{
+              "width":200,
+              "height":100}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"c40bb7dc2c4b4713b5ff95e0fc0ca436",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":300,
+              "y":740},
+            "size":{
+              "width":50,
+              "height":50}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f115cc8cd3a4425594b3cf34e5d10806",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":300,
+                  "y":740},
+                "size":{
+                  "width":50,
+                  "height":50}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/crear_docente/u16.png"}},
+{
+          "id":"9be4cc490d224e8893fde39398c8123c",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":360,
+              "y":752.5},
+            "size":{
+              "width":100,
+              "height":25}},
+          "adaptiveStyles":{
+}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "1587e721bd794b05a3535949f11f2dd8":{
+      "scriptId":"u0"},
+    "f6d5bfbb3ad841a497d9c71a225b3f0f":{
+      "scriptId":"u1"},
+    "63930b224d8e4ce79a92499e6b88453e":{
+      "scriptId":"u2"},
+    "880fd4ff06bc4528a9aff8a2e1eff8f3":{
+      "scriptId":"u3"},
+    "248698cdd39344619b5f8d111fa9a973":{
+      "scriptId":"u4"},
+    "7fd3cfd63d7c46a3b144769b31ed590d":{
+      "scriptId":"u5"},
+    "7d1903bcca0f479a8f214195835f58c7":{
+      "scriptId":"u6"},
+    "867ccbab32cb48fb98821e4a62ef4c95":{
+      "scriptId":"u7"},
+    "fbb2865ec87942ce84aa9ff1ad55586a":{
+      "scriptId":"u8"},
+    "f5cc1766a9284502ac2ce76a78652857":{
+      "scriptId":"u9"},
+    "6020c72ef6cb4a0288b31134f1bf51de":{
+      "scriptId":"u10"},
+    "8a66b087e76b4adca8cdabf642103867":{
+      "scriptId":"u11"},
+    "ab6f150462074e24b0bad31f4d21ebbf":{
+      "scriptId":"u12"},
+    "caa47d6c63864b32acb483ff2e718c51":{
+      "scriptId":"u13"},
+    "ab455837e4394f3ebe6ea78bcd9a0109":{
+      "scriptId":"u14"},
+    "4b48b587d72c42b3a95fbe606a8a7298":{
+      "scriptId":"u15"},
+    "c40bb7dc2c4b4713b5ff95e0fc0ca436":{
+      "scriptId":"u16"},
+    "f115cc8cd3a4425594b3cf34e5d10806":{
+      "scriptId":"u17"},
+    "9be4cc490d224e8893fde39398c8123c":{
+      "scriptId":"u18"}}});
